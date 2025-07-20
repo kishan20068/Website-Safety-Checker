@@ -66,4 +66,5 @@ Add database support for tracking checked URLs
 
 Improve detection logic for malicious domains
 
-Add user authentication for tracking personal checks
+Add user authentication for tracking personal checks<img width="1908" height="792" alt="Screenshot 2025-07-20 201615" src="https://github.com/user-attachments/assets/cb543686-d7c6-446d-9a3d-ee25aaa05d2c" />
+

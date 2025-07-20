@@ -2,8 +2,6 @@
 
 This is a simple Flask web application that helps users determine whether a given website URL is **Safe**, **Spam**, or **Dangerous** based on predefined logic. It features a cyber-themed UI built with HTML and CSS for a sleek and modern look.
 
-![screenshot](https://via.placeholder.com/800x400?text=URL+Safety+Checker+Preview) <!-- Replace with actual screenshot if available -->
-
 ---
 
 ## 🚀 Features

@@ -68,3 +68,4 @@ Improve detection logic for malicious domains
 
 Add user authentication for tracking personal checks
 <img width="1908" height="792" alt="Screenshot 2025-07-20 201615" src="https://github.com/user-attachments/assets/af126d37-0503-4658-adea-a08641928522" />
+<img width="1908" height="792" alt="Screenshot 2025-07-20 201615" src="https://github.com/user-attachments/assets/6871240f-c3bf-4660-b3df-5bf7313d91b4" />
